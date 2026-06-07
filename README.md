@@ -29,7 +29,7 @@
 
 Software engineer with **6+ years of experience** (since 2019) building web systems across e-commerce, insurance, HR/labor management, and enterprise workflow domains. Started with offshore development for Japanese clients in Myanmar, and have been working **on-site in Japan since 2022**.
 
-- 🎓 **B.C.Sc in Computer Science** — Yangon University of Computer Studies (2019)
+- 🎓 **B.C.Sc** — Yangon University of Computer Studies (2019)
 - 🗣️ **JLPT N2** — business-level Japanese
 - 💪 **Strengths:** self-learning new languages quickly · strong sense of responsibility · 報・連・相 (Hou-Ren-Sou) communication · teamwork
 - 🌱 **Goal:** grow into a project leader in Japan's IT industry, then found my own software company in Myanmar.
